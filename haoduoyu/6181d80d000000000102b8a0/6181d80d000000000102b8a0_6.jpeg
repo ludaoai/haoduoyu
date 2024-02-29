@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Error>
+	<Code>MirrorFailed</Code>
+	<Message>Error status: 500 from mirror host, should return 200 OK.</Message>
+	<Resource>/bb2be26d-33c8-35e7-9823-68c5df4879c2</Resource>
+	<RequestId>NjVlMDk5MzBfY2E4ZTI3MDlfNTNjNF8zMGEzZTc4</RequestId>
+	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc0OWRkZjk0ZDM1NmI1M2E2MTRlY2MzZDhmNmI5MWI1OWRlZDk5YzgyOTg0ZTg2ODA1ODFjOGY0MWFhYWFhOTdmMTkyOGViYzUwMTQ3NWE3OGMwOWQ1MDg4ZDJlNjY1Y2E=</TraceId>
+</Error>
+

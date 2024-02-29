@@ -1,0 +1,32 @@
+===============2024-02-29 14:08:24================
+{
+    "收藏数量": "100+",
+    "评论数量": "100+",
+    "分享数量": "10+",
+    "点赞数量": "100+",
+    "作品标签": [
+        "人际关系",
+        "拒绝内耗",
+        "我的交友观",
+        "个人成长",
+        "自我成长"
+    ],
+    "作品ID": "64d5ec3c000000000b02af11",
+    "作品标题": "30几岁的人，要删掉一个朋友是很简单的",
+    "作品描述": "无论什么关系，提供不了情绪价值\n给予不了经济支持，给不到陪伴\n三点不占一样，舍弃就是明智之举\n\t\n以后，谁惹我不开心了\n我就，回来，看10遍，这个文案！\n#人际关系[话题]# #拒绝内耗[话题]# #我的交友观[话题]# #个人成长[话题]# #自我成长[话题]#",
+    "作品类型": "图文",
+    "IP归属地": null,
+    "发布时间": "2023-08-11 08:07:24",
+    "最后更新时间": "2023-08-11 08:07:25",
+    "作者昵称": "好多鱼",
+    "作者ID": "56f509d54775a75504572743",
+    "下载地址": [
+        "https://sns-img-bd.xhscdn.com/1040g00830nkjaiq8na0047c5im4ta9q3q1nm3v8",
+        "https://sns-img-bd.xhscdn.com/1040g00830nkjaiq8na0g47c5im4ta9q33gobs2g",
+        "https://sns-img-bd.xhscdn.com/1040g00830nkjaiq8na1047c5im4ta9q3nbifnp8",
+        "https://sns-img-bd.xhscdn.com/1040g00830nkjaiq8na1g47c5im4ta9q331ottn0",
+        "https://sns-img-bd.xhscdn.com/1040g00830nkjaiq8na2047c5im4ta9q338dbko0",
+        "https://sns-img-bd.xhscdn.com/1040g00830nkjaiq8na2g47c5im4ta9q3pq373m8",
+        "https://sns-img-bd.xhscdn.com/1040g00830nkjaiq8na3047c5im4ta9q3m0mnch8"
+    ]
+}

@@ -1,0 +1,43 @@
+===============2024-02-29 14:06:05================
+{
+    "收藏数量": "10+",
+    "评论数量": "10+",
+    "分享数量": "10+",
+    "点赞数量": "100+",
+    "作品标签": [
+        "独居女孩",
+        "独居生活",
+        "一个人就一个人",
+        "我独自生活",
+        "我的日常",
+        "生活记录",
+        "汉印拍立得Z1",
+        "拍立得",
+        "汉印Z1",
+        "听见照片的声音",
+        "乐玩打印尽在汉印"
+    ],
+    "作品ID": "653a0a48000000002201ca0e",
+    "作品标题": "32岁，一个人生活，享受彻底失联式的放松",
+    "作品描述": "和我爸每周会通一次电话\n内容都是些不痛不痒，无关紧要的\n只是报个平安\n外婆因为耳朵不好\n所以也是一周通一次视频电话\n.\n除此之外，我没有非接不可的电话\n和一定要联系的人\n.\n这就是我比较理想的生活状态\n和要好的朋友也不常联系\n也不喜欢一来二去的回复消息\n更多时候，我都靠自己活着…\n.\n我倒也不是一直无趣的\n唯一的主动对外社交爱好\n就是拍照了吧，可能是因为活的太平庸了\n只有在翻看照片的时候，看到那些雀跃的瞬间\n才会意识到“原来我活的还是有点意思的”\n.\n前段时间买了个汉印拍立得Z1\n拿到手上可有新鲜劲了，小小一个方便携带\n内置八个滤镜，随手一拍都很好看，我更喜欢它的拼图拍照，四宫格，三宫格都可以，还能连接手机汉印美照编辑打印图片，ZINK的无墨技术，打印出来的清晰又很有氛围感，拍好的照片都可以随拍“立得”\n.\n常常都是一个人沉默的生活着\n拍照，记录，就是我生活里的回音\n冷漠是我，孤独是我，热情是我，各种各样的都是我\n就这样做自己吧，就让我这样生活吧…\n#独居女孩[话题]# #独居生活[话题]# #一个人就一个人[话题]# #我独自生活[话题]# #我的日常[话题]# #生活记录[话题]# #汉印拍立得Z1[话题]# #拍立得[话题]# #汉印Z1[话题]##听见照片的声音[话题]# #乐玩打印尽在汉印[话题]#",
+    "作品类型": "图文",
+    "IP归属地": null,
+    "发布时间": "2023-10-27 01:44:18",
+    "最后更新时间": "2023-10-26 06:42:16",
+    "作者昵称": "好多鱼",
+    "作者ID": "56f509d54775a75504572743",
+    "下载地址": [
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0i8047c5im4ta9q38tuale8",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0i8g47c5im4ta9q3s7eunug",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0i9047c5im4ta9q3aejnk2o",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0i9g47c5im4ta9q3hk5gnmg",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0ia047c5im4ta9q3qb0lo2g",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0iag47c5im4ta9q3fmaoqf0",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0ib047c5im4ta9q3hhtv2p8",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0ibg47c5im4ta9q3eakpfv8",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0ic047c5im4ta9q3f0hcqd8",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0icg47c5im4ta9q3dbf1l5g",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0id047c5im4ta9q349rdlsg",
+        "https://sns-img-bd.xhscdn.com/1040g2sg30qmbvten0idg47c5im4ta9q3ff86qio"
+    ]
+}
